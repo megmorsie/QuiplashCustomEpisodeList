@@ -1,9 +1,6 @@
 # QuiplashCustomEpisodeList
 List of all known Custom Quiplash Episodes for use on The Jackbox Party Packs. Note that I have not personally played all these episodes so I can not vouche for their saftey on younger audience members. I am just curating them to a single area on Github for people to find more easily.
 
-### Spooky Halloween
-- Spooky Halloween 16: NKP-KXLR
-
 ### Penguato
 - "Family Friendly" Pack: SHY-YLSF
 
@@ -15,18 +12,21 @@ List of all known Custom Quiplash Episodes for use on The Jackbox Party Packs. N
 (Not sure on family friendliness)
 - Stupid Customer Questions: MVE-RTVJ
 
-### Whose Line is it Anyway?
-- WLITA: BLP-QVKF 
+# Holiday Themed Episodes
+- Jackbox-Created Holiday: RWB-NHQZ
 
-### Passover Themed Episode
+### Passover
 - Passover: THK-RCZM
 
-### Funny Mario Pack
+### Halloween
+- Spooky Halloween 16: NKP-KXLR
+- 2Quippy4Me: QKQ-HVRE
+- Jackbox-Created Halloween: RTZ-FDPZ
+
+# Pop Culture-Themed Episodes
+- Harry Potter: XGN-QRZC
 - Funny Mario: YHN-RRWC
-
-### Jackbox Holiday Pack
-- Jackbox Holiday: RWB-NHQZ
-
+- Whose Line is it Anyway?: BLP-QVKF 
 
 # Known Adult/NSFW Content Packs
 All packs that contain blatant adult/mature content will be found below
